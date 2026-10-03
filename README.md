@@ -1,8 +1,6 @@
 # AWS Serverless Student Management API
 
-## Project Question 1 — AWS Only
-
-### 1. Project Overview
+## 1. Project Overview
 
 This project implements a serverless Student Management API using AWS Lambda, Amazon API Gateway, and Amazon DynamoDB.
 
