@@ -205,21 +205,21 @@ The final GET verification confirmed that the deleted student record was no long
 
 ###  API Gateway PUT Test
 
-![put](screenshots\put.png)
+![put](screenshots/put.png)
 
 ###  API Gateway DELETE Test
 
-![delete](screenshots\delete.png)
+![delete](screenshots/delete.png)
 
 
 ### Final GET Verification
 
-![finalget](screenshots\finalget.png)
+![finalget](screenshots/finalget.png)
 
 ### Final GET Record
 
 
-![finalget](screenshots\finalreord.png)
+![finalget](screenshots/finalreord.png)
 ---
 
 ## 8. Lambda Logic
